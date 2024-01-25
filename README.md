@@ -15,14 +15,18 @@ In this Branch, the original AnyNet model has undergone experimentation and enha
    Techniques for decoder aggregation have been implemented to leverage the outputs of both the original and the added decoder. This experimentation is conducted to enhance the depth estimation results and explore potential improvements in accuracy.
 
 ## Usage
+
 Refer to the [Original_repo](https://github.com/mileyan/AnyNet) for usage.
+
 Refer to the [Original_paper](https://arxiv.org/abs/1810.11408) for understanding.
+
 Refer to the [Unoffical_repo](https://github.com/gyes00205/AnyNet/) for more implementation.
+
 ## Results and Evaluation
 
 As a result of the modifications, new evaluation metrics and results are provided. The README includes details on how to assess the performance of the modified AnyNet model on various datasets. Additionally, insights into the impact of the extra decoder and decoder aggregation on depth estimation accuracy are discussed.
 
-You can also look into our [Report](AnyNet\Anytime_Stereo_Image_Depth_Estimation_TEAM14_Akshara_Anirudh_Nivina_Roop-2.pdf)
+You can also look into our [Report](AnyNet/Anytime_Stereo_Image_Depth_Estimation_TEAM14_Akshara_Anirudh_Nivina_Roop-2.pdf)
 
 
 ## Citation
@@ -37,7 +41,6 @@ If you find this work useful, please consider citing the original paper:
   year={2018}
 }
 ```
-````
 
 ## Acknowledgments
 
@@ -46,5 +49,3 @@ We acknowledge the original authors for their valuable contribution to stereo im
 Feel free to explore the modified code, experiment with the new features, and contribute to further advancements in stereo depth estimation with AnyNet!
 
 ---
-
-Feel free to add any additional details or specific changes made during your experimentation in the fork.
