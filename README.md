@@ -26,7 +26,7 @@ Refer to the [Unoffical_repo](https://github.com/gyes00205/AnyNet/) for more imp
 
 As a result of the modifications, new evaluation metrics and results are provided. The README includes details on how to assess the performance of the modified AnyNet model on various datasets. Additionally, insights into the impact of the extra decoder and decoder aggregation on depth estimation accuracy are discussed.
 
-You can also look into our [Report](AnyNet/Anytime_Stereo_Image_Depth_Estimation_TEAM14_Akshara_Anirudh_Nivina_Roop-2.pdf)
+You can also look into our [Report](Anytime_Stereo_Image_Depth_Estimation_TEAM14_Akshara_Anirudh_Nivina_Roop-2.pdf)
 
 
 ## Citation
