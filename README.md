@@ -29,7 +29,7 @@ Refer to the [Unoffical_repo](https://github.com/gyes00205/AnyNet/) for more imp
 
 The following classmates have contributed to this project:
 
-- [Akshara Trichambaram](mailto:atricham@asu.edu)
+- [Akshara Trichambaram](https://github.com/aksharat)
 - [Nivina Christy](mailto:nchris17@asu.edu)
 - [Roop Sumanth Gundu](mailto:rgundu2@asu.edu)
 
