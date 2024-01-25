@@ -25,6 +25,14 @@ Refer to the [Original_paper](https://arxiv.org/abs/1810.11408) for understandin
 
 Refer to the [Unoffical_repo](https://github.com/gyes00205/AnyNet/) for more implementation.
 
+## Contributors
+
+The following classmates have contributed to this project:
+
+- [Akshara Trichambaram](atricham@asu.edu)
+- [Nivina Christy](nchris17@asu.edu)
+- [Roop Sumanth Gundu](rgundu2@asu.edu)
+
 ## Results and Evaluation
 
 As a result of the modifications, new evaluation metrics and results are provided. The README includes details on how to assess the performance of the modified AnyNet model on various datasets. Additionally, insights into the impact of the extra decoder and decoder aggregation on depth estimation accuracy are discussed.
@@ -50,5 +58,6 @@ If you find this work useful, please consider citing the original paper:
 We acknowledge the original authors for their valuable contribution to stereo image depth estimation. The enhancements in this fork are experimental and aim to contribute to the exploration of advanced techniques in the field.
 
 Feel free to explore the modified code, experiment with the new features, and contribute to further advancements in stereo depth estimation with AnyNet!
+
 
 ---
