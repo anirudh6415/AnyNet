@@ -29,9 +29,9 @@ Refer to the [Unoffical_repo](https://github.com/gyes00205/AnyNet/) for more imp
 
 The following classmates have contributed to this project:
 
-- [Akshara Trichambaram](atricham@asu.edu)
-- [Nivina Christy](nchris17@asu.edu)
-- [Roop Sumanth Gundu](rgundu2@asu.edu)
+- [Akshara Trichambaram](mailto:atricham@asu.edu)
+- [Nivina Christy](mailto:nchris17@asu.edu)
+- [Roop Sumanth Gundu](mailto:rgundu2@asu.edu)
 
 ## Results and Evaluation
 
