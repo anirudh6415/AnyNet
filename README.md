@@ -17,7 +17,7 @@ In this Branch, the original AnyNet model has undergone experimentation and enha
 ## Usage
 Refer to the [Original_repo](https://github.com/mileyan/AnyNet) for usage.
 Refer to the [Original_paper](https://arxiv.org/abs/1810.11408) for understanding.
-
+Refer to the [Unoffical_repo](https://github.com/gyes00205/AnyNet/) for more implementation.
 ## Results and Evaluation
 
 As a result of the modifications, new evaluation metrics and results are provided. The README includes details on how to assess the performance of the modified AnyNet model on various datasets. Additionally, insights into the impact of the extra decoder and decoder aggregation on depth estimation accuracy are discussed.
