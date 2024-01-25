@@ -1,10 +1,13 @@
 # Modified Anytime Stereo Image Depth Estimation with Additional Decoder
 
-This forked repository is based on the original "Anytime Stereo Image Depth Estimation on Mobile Devices" by Yan Wang, Zihang Lai, Gao Huang, Brian Wang, Laurens van der Maaten, Mark Campbell, and Kilian Q. Weinberger. The original work has been accepted by the International Conference on Robotics and Automation (ICRA) in 2019.
+This is a Modified repository, it is based on the original ["Anytime Stereo Image Depth Estimation on Mobile Devices"](https://github.com/mileyan/AnyNet) by Yan Wang, Zihang Lai, Gao Huang, Brian Wang, Laurens van der Maaten, Mark Campbell, and Kilian Q. Weinberger. The original work has been accepted by the International Conference on Robotics and Automation (ICRA) in 2019.
 
 ## Modifications
 
 In this Branch, the original AnyNet model has undergone experimentation and enhancements as part of a class project. The primary modification involves the addition of an extra decoder for the model, and decoder aggregation techniques have been applied.
+
+## Model
+![Model architecture](results_imgs/OurModel.png)
 
 ## Changes Made
 
